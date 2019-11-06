@@ -43,7 +43,7 @@ body {
   }
 
   .team-list .btn {
-    width: 60%;
+    width: auto;
   }
 
   .btn:hover {
